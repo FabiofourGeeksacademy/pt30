@@ -1,0 +1,11 @@
+
+Pinging google.cl [2800:3f0:4003:c01::5e] with 32 bytes of data:
+Reply from 2800:3f0:4003:c01::5e: time=23ms 
+Reply from 2800:3f0:4003:c01::5e: time=26ms 
+Reply from 2800:3f0:4003:c01::5e: time=19ms 
+Reply from 2800:3f0:4003:c01::5e: time=20ms 
+
+Ping statistics for 2800:3f0:4003:c01::5e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 19ms, Maximum = 26ms, Average = 22ms
